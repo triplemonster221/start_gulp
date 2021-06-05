@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-style: 13px;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+header {
+    height: 100vh;
+    color:yellow;
+    background: red;
+}
